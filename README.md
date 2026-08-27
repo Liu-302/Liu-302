@@ -3,7 +3,6 @@
 
 <p align="center">
   Computer Science @ UNNC<br>
-  Passionate about software and web development, bridging perceptive algorithms with intuitive UI/UX design.
 </p>
 
 ---
