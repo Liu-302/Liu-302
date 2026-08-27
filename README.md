@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack | Perceptive AI | Backend Engineering</h3>
 
 <p align="center">
-  Computer Science @ UNNC<br>
+  Computer Science @ UNNC[cite: 1]<br>
   Passionate about software and web development, bridging perceptive algorithms with intuitive UI/UX design.
 </p>
 
@@ -11,24 +11,6 @@
 ## About Me
 
 I am passionate about building complete, well-crafted software and web applications. I love bringing perceptive algorithms into real-world scenarios while paying close attention to UI/UX design—ensuring projects are not only fully functional, but also visually appealing and smooth to interact with. I truly enjoy transforming ideas into usable, elegant products that solve real-world problems.
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Liu-302&theme=default" width="98%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Liu-302&theme=default" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Liu-302&theme=default" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Liu-302&theme=default" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Liu-302&theme=default&utcOffset=8" width="49%" />
-</p>
 
 ---
 
@@ -97,7 +79,22 @@ I am passionate about building complete, well-crafted software and web applicati
 
 ---
 
+<table border="0" width="100%">
+  <tr border="0">
+    <td width="55%" align="center" valign="middle" style="border: none;">
+      <img width="100%" src="https://raw.githubusercontent.com/Liu-302/Liu-302/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+    </td>
+    <td width="45%" align="center" valign="middle" style="border: none;">
+      <a href="https://github.com/Liu-302">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liu-302&layout=compact&langs_count=8&theme=algolia" alt="Most Used Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Contact
 
-- Email: yumengliu0302@gmail.com
-- GitHub: https://github.com/Liu-302
+- Email: yumengliu0302@gmail.com[cite: 1]
+- GitHub: https://github.com/Liu-302[cite: 1]
