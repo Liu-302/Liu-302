@@ -22,12 +22,8 @@ I am passionate about building complete, well-crafted software and web applicati
 ## GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Liu-302">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Liu-302&theme=radical" height="200" alt="Profile Details Heatmap" />
-  </a>
-  <a href="https://github.com/Liu-302">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Liu-302&layout=compact&langs_count=8&theme=radical&hide_border=true&card_width=495&count_private=true" height="200" alt="Most Used Languages" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Liu-302&theme=radical" width="48.5%" alt="Profile Details Heatmap" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Liu-302&layout=compact&langs_count=8&theme=radical&hide_border=true&card_width=490&count_private=true" width="48.5%" alt="Most Used Languages" />
 </div>
 
 ---
