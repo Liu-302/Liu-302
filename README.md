@@ -21,15 +21,20 @@ I am passionate about building complete, well-crafted software and web applicati
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Liu-302&theme=radical" width="100%" alt="Profile Details Heatmap" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Liu-302">
-    <img width="100%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Liu-302&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-  </a>
-</p>
+<table border="0" width="100%">
+  <tr border="0">
+    <td width="50%" align="center" valign="middle" style="border: none;">
+      <a href="https://github.com/Liu-302">
+        <img width="100%" height="215" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Liu-302&theme=radical" alt="Profile Details Heatmap" style="object-fit: contain;" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="middle" style="border: none;">
+      <a href="https://github.com/Liu-302">
+        <img width="100%" height="215" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Liu-302&layout=compact&langs_count=8&theme=radical&hide_border=true&card_width=450" alt="Most Used Languages" style="object-fit: contain;" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
