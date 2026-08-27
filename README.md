@@ -2,7 +2,7 @@
   <img src="./assets/banner.png" width="100%" alt="Tech Stack Banner" />
 </p>
 
-<h1 align="center">Yumeng Liu</h1>
+<h1 align="center">LIU</h1>
 <h3 align="center">Full-Stack | Perceptive AI | Backend Engineering</h3>
 
 <p align="center">
