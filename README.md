@@ -98,5 +98,5 @@ I am passionate about building complete, well-crafted software and web applicati
 
 ## Contact
 
-- Email: yumengliu0302@gmail.com[cite: 1]
-- GitHub: https://github.com/Liu-302[cite: 1]
+- Email: yumengliu0302@gmail.com
+- GitHub: https://github.com/Liu-302
