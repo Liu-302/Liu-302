@@ -19,7 +19,21 @@ I am passionate about building complete, well-crafted software and web applicati
 
 ---
 
-### Tech Stack
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Liu-302&theme=radical" width="100%" alt="Profile Details Heatmap" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Liu-302">
+    <img width="100%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Liu-302&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  </a>
+</p>
+
+---
+
+## Tech Stack
 
 <table>
   <tr>
@@ -78,25 +92,6 @@ I am passionate about building complete, well-crafted software and web applicati
     <td width="120" valign="middle"><b>DevOps</b></td>
     <td width="731">
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-    </td>
-  </tr>
-</table>
-
----
-
-## GitHub Stats
-
-<table border="0" width="100%">
-  <tr border="0">
-    <td width="50%" align="center" valign="middle" style="border: none;">
-      <a href="https://github.com/Liu-302">
-        <img width="100%" src="https://github-readme-stats-fast.vercel.app/api?username=Liu-302&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="middle" style="border: none;">
-      <a href="https://github.com/Liu-302">
-        <img width="100%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Liu-302&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-      </a>
     </td>
   </tr>
 </table>
