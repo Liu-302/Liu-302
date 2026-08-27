@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack | Perceptive AI | Backend Engineering</h3>
 
 <p align="center">
-  Computer Science @ UNNC[cite: 1]<br>
+  Computer Science @ UNNC<br>
   Passionate about software and web development, bridging perceptive algorithms with intuitive UI/UX design.
 </p>
 
@@ -83,14 +83,14 @@ I am passionate about building complete, well-crafted software and web applicati
 
 <table border="0" width="100%">
   <tr border="0">
-    <td width="55%" align="center" valign="middle" style="border: none;">
+    <td width="50%" align="center" valign="middle" style="border: none;">
       <a href="https://github.com/Liu-302">
-        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Liu-302&theme=tokyo-night&hide_border=true&area=true" alt="Commit Activity Graph" />
+        <img width="100%" src="https://github-readme-stats-fast.vercel.app/api?username=Liu-302&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
       </a>
     </td>
-    <td width="45%" align="center" valign="middle" style="border: none;">
+    <td width="50%" align="center" valign="middle" style="border: none;">
       <a href="https://github.com/Liu-302">
-        <img width="100%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Liu-302&layout=compact&langs_count=8&theme=tokyonight" alt="Most Used Languages" />
+        <img width="100%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Liu-302&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
       </a>
     </td>
   </tr>
