@@ -2,6 +2,12 @@
 <h3 align="center">Full-Stack | Perceptive AI | Backend Engineering</h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Liu-302&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Liu-302?style=for-the-badge&color=FF5F6D&labelColor=141321" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Liu-302?style=for-the-badge&color=FFC371&labelColor=141321" alt="Stars" />
+</p>
+
+<p align="center">
   Computer Science @ UNNC<br>
 </p>
 
