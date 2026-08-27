@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack | Perceptive AI | Backend Engineering</h3>
 
 <p align="center">
-  Computer Science @ UNNC<br>
+  Computer Science @ UNNC[cite: 1]<br>
   Passionate about software and web development, bridging perceptive algorithms with intuitive UI/UX design.
 </p>
 
@@ -83,16 +83,12 @@ I am passionate about building complete, well-crafted software and web applicati
 
 <table border="0" width="100%">
   <tr border="0">
-    <td width="53%" align="center" valign="middle" style="border: none;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Liu-302/Liu-302/output/github-contribution-grid-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Liu-302/Liu-302/output/github-contribution-grid-snake.svg">
-        <img width="100%" src="https://raw.githubusercontent.com/Liu-302/Liu-302/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-      </picture>
+    <td width="60%" align="center" valign="middle" style="border: none;">
+      <img width="100%" src="https://raw.githubusercontent.com/Liu-302/Liu-302/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
     </td>
-    <td width="47%" align="center" valign="middle" style="border: none;">
+    <td width="40%" align="center" valign="middle" style="border: none;">
       <a href="https://github.com/Liu-302">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liu-302&layout=compact&langs_count=8&theme=tokyonight" alt="Most Used Languages" />
+        <img width="100%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Liu-302&layout=compact&langs_count=8&theme=tokyonight" alt="Most Used Languages" />
       </a>
     </td>
   </tr>
@@ -102,5 +98,5 @@ I am passionate about building complete, well-crafted software and web applicati
 
 ## Contact
 
-- Email: yumengliu0302@gmail.com
-- GitHub: https://github.com/Liu-302
+- Email: yumengliu0302@gmail.com[cite: 1]
+- GitHub: https://github.com/Liu-302[cite: 1]
