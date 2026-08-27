@@ -83,10 +83,12 @@ I am passionate about building complete, well-crafted software and web applicati
 
 <table border="0" width="100%">
   <tr border="0">
-    <td width="60%" align="center" valign="middle" style="border: none;">
-      <img width="100%" src="https://raw.githubusercontent.com/Liu-302/Liu-302/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+    <td width="55%" align="center" valign="middle" style="border: none;">
+      <a href="https://github.com/Liu-302">
+        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Liu-302&theme=tokyo-night&hide_border=true&area=true" alt="Commit Activity Graph" />
+      </a>
     </td>
-    <td width="40%" align="center" valign="middle" style="border: none;">
+    <td width="45%" align="center" valign="middle" style="border: none;">
       <a href="https://github.com/Liu-302">
         <img width="100%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Liu-302&layout=compact&langs_count=8&theme=tokyonight" alt="Most Used Languages" />
       </a>
