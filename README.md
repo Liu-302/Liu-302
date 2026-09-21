@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Liu-302&style=for-the-badge&color=blueviolet" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Liu-302?style=for-the-badge&color=FF5F6D&labelColor=141321" alt="Followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-readme-stats-gamma-nine-35.vercel.app%2Fapi%3Fusername%3DLiu-302%26count_private%3Dtrue%26format%3Djson&query=%24.totalStars&label=STARS&logo=star&logoColor=white&color=f4c430&labelColor=141321&style=for-the-badge" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FLiu-302%2FLiu-302%2Fmain%2Fprofile-summary-card-output%2Fradical%2F3-stats.svg&query=(%2F%2Ftext%5Bcontains(%2C'Stars')%5D%2Ffollowing-sibling%3A%3Atext)[1]&label=STARS&logo=star&logoColor=white&color=f4c430&labelColor=141321&style=for-the-badge" alt="Total Stars" />
 </p>
 
 <p align="center">
