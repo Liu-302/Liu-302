@@ -26,3 +26,17 @@ jobs:
           BRANCH_NAME: "main"
           UTC_OFFSET: 8
           AUTO_PUSH: true
+
+      - name: Generate Stars Endpoint
+        run: |
+          git pull
+          # 从生成的 stats SVG 中提取 Star 真实数值
+          STARS=$(grep -oP '(?<=Stars:</b> )\d+|(?<=Stars</text><text[^>]*>)\d+' profile-summary-card-output/radical/3-stats.svg || echo "1")
+          # 生成 Shields.io 标准格式的 endpoint JSON
+          mkdir -p badges
+          echo "{\"schemaVersion\": 1, \"label\": \"STARS\", \"message\": \"$STARS\", \"color\": \"f4c430\"}" > badges/stars.json
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add badges/stars.json
+          git commit -m "Update dynamic stars badge [skip ci]" || exit 0
+          git push
