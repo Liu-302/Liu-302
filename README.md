@@ -6,7 +6,7 @@
 <h3 align="center">Full-Stack | Perceptive AI | Backend Engineering</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Liu-302&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLiu-302&count_bg=%238A2BE2&title_bg=%23141321&icon=&icon_color=%23E7E7E7&title=VIEWS&edge_flat=false" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Liu-302?style=for-the-badge&color=FF5F6D&labelColor=141321" alt="Followers" />
   <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FLiu-302%2FLiu-302%2Fmain%2Fbadges%2Fstars.json&style=for-the-badge&logo=star&logoColor=white&labelColor=141321" alt="Total Stars" />
 </p>
